@@ -1,5 +1,4 @@
 # IPV Spectral Locus Validation
-### SEE 894 · Simon Fraser University · Spring 2026
 
 MATLAB implementation of the three-step IPV benchmarking pipeline based on 
 the spectral projection and PCE-λonset,95% locus construction framework 
